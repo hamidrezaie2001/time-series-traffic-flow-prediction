@@ -1,2 +1,2 @@
 # time-series-traffic-flow-prediction
- In this study, we propose a novel hybrid  framework that integrates convolutional, temporal, and sequential learning components to enhance  short-term traffic flow prediction using high-resolution data from California’s I-5 corridor.
+ In this study, we propose a novel hybrid  framework that integrates convolutional, temporal, and sequential learning components to enhance  short-term traffic flow prediction using high-resolution data from California’s I-5 corridor. Data for this work is available in this link:  https://docs.google.com/spreadsheets/d/1hcZ7Kzjcs9jyRRvNLTPfSrjAai5_UGla/edit?usp=sharing&ouid=114464642486465531722&rtpof=true&sd=true
